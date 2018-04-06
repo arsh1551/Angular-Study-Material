@@ -1,0 +1,29 @@
+EF5:
+ This release can be used in Visual Studio 2010 and Visual Studio 2012 to write applications that target .NET 4.0 and .NET 4.5.
+ When targeting .NET 4.5 this release introduces some new features including enum support, table-valued functions, spatial data types and various performance improvements
+
+MVC: 4
+https://www.dotnetinterviewquestions.in/article_what-is-the-difference-between-each-version-of-mvc-2-3-4-5-and-6-mvc-interview-questions_247.html
+
+ASP.NET 4.5 or 4.5.1
+http://www.dotnettricks.com/learn/aspnet/a-brief-version-history-of-aspnet
+
+
+***************************************************************
+
+.NET Framework 4.5: released 2010: Background Server Garbage Collection.
+
+MVC5: requires .NET Framework 4.5 and visual studio 2013.
+
+MVC 5.0	VS 2013	.NET 4.5 17-oct-2013	
+
+
+Bootstrap support
+Attribute routing
+Authentication filters
+ASP.Net Identity
+New scaffolding items
+
+
+
+

@@ -1,0 +1,38 @@
+ 1. Can you develop and run an Angular app without CLI?	
+
+ 2. How can custom annotations be created? practical scenarios where custom decorators are useful: As functions taking para,meters or without parametrs on class, method, property, parametrs.
+Eg: to make a class property readonly.
+
+3. Pipes : format output. eg: {{propertname | date: "MM/dd/yy" }}.
+          Custom pipes: @Pipe({name: 'exponentialStrength'})
+          export class ExponentialStrengthPipe implements PipeTransform
+
+
+4. State Management using Cookies/Local Storage/Session Storage: https://www.youtube.com/watch?v=FKPfiQQz5hY
+    Cookies: for server side use.
+    Local Storage: browser client side use.
+    Session Storage: browser side usage but lifetime until browser window closes.
+    
+5. Configure Async HTTP Calls through .NET Core APIs: Pending
+
+6. Ng builds using webpack in behind the scenes angular cli:
+Angular CLI loads its configuration from .angular-cli.json
+Angular CLI runs Webpack to build and bundle all JavaScript and CSS code
+Angular CLI starts Webpack dev server to preview the result on localhost:4200.
+
+7. Javascript:
+ • Modular : 
+• Prototype Design Patterns
+• IIFe Functions
+• Closures
+• JavaScript vulnerabilities 
+
+8.  PDF generation using mvc razor and html helpers: Rotativa nuget package: converts html to pdf.  Write action for viewing data and then actionasPDF. https://www.codeproject.com/Articles/335595/Rotativa-how-to-print-PDF-in-Asp-Net-MVC
+                                                     SSRS reporting.
+9. RESTful APIs with .NET Core
+•	HTTP Verbs
+•	Filters
+•	Routing
+•	Request to Response Lifecycle
+
+10. Reactive Forms 

@@ -1,0 +1,46 @@
+Technology stack with Core modules
+
+Front End
+
+Angular 5
+	• Components
+	• Routes
+	• Reactive Forms 
+	• Component Communication (Nested/Children)  
+	• Data Binding, Directives (When & Where to Use), Pipes, Interpolation
+	• Services
+	• State Management using Cookies/Local Storage/Session Storage.
+	• Configure Async HTTP Calls through .NET Core APIs
+	
+CLI:
+	• Generate Components, Services, Modules, Pipes, Directives etc. on the fly.
+	•             	
+	
+TypeScript Fundamentals:
+	• Annotations (Interview based)
+	
+JavaScript (Interview Purpose):
+	• Modular 
+• Prototype Design Patterns
+• IIFY Functions
+• Closures
+• JavaScript vulnerabilities 
+
+Server Side
+
+MVC (For PDF generation purpose)
+•	Razor Engine
+•	Partial Views
+•	HTML Helpers
+
+RESTful APIs with .NET Core
+•	HTTP Verbs
+•	Filters
+•	Routing
+•	Request to Response Lifecycle
+Entity Framework Core
+•	Code first approach
+•	Auto/Manual Migrations
+
+
+

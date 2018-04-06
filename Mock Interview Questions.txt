@@ -1,0 +1,28 @@
+	1. Why would one switch from Angular 1 to Angular 2? And why to use Angular? https://www.quora.com/in/What-is-the-difference-between-AngularJs-and-Angular-2
+	2. Since when are you working with Angular? What was the last version you used?
+	3. Is Angular a language or a framework? 
+	4. Why do we use Typescript in Angular? How does the browser understand it?
+	5. What is the best way to kick start an Angular application?
+	6. Can you develop and run an Angular app without CLI?
+	7. What is the CLI command syntax for creating app and  components?
+	8. What is the difference between ECMA script modules and ng modules?
+	9. How would you share a component/pipe/directive in one module to another module?
+	10. What are directives?
+	11. What are the different types of directives?
+	12. What are components?
+	13. Consider the scenario:
+	A page has a search functionality and a grid where the search results are displayed. When one of the search results is clicked, the details relating to that search result are displayed. How will you split this into components?
+	14. How will you share data between different components?
+	15. What is the difference between a component and directive?
+	16. What are services? Why does one need them?
+	17. How will you transform a simple class into a service?
+	18. What are the different ways of binding data between component and template?
+	19. Explain the mechanism of dependency injection.
+	20. What are singleton instances?
+	21. What are decorators?
+	22. How can custom annotations be created?
+	23. Give practical scenarios where custom decorators are useful.
+	23. NgModules?
+	24. How browser will understand the typescript which we use in Angular.
+	25. Best way to kick start an Angular application?
+        26. What is ECMAScript? And its comparison with Typescript.

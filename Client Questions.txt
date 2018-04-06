@@ -1,0 +1,38 @@
+
+1. Introduction, and technologies you have worked upon.
+
+Working in .net domain from 2 years in areas of support and maintenance, and .net mvc using C#. 
+Project: Royal mail group uk based maintaining collections and delieveries to uk  postal addresses.
+ 
+ 
+2. What is your core strength, from technology perspective.
+Mvc and C#.
+
+3. Most recent feature you liked and used. bootstrap in MVC, Attribute routing.
+
+4. Any experience in .Net core? No
+
+5. Data layer you have most recently used.
+Entity framework version 6: Open source ORM, replaces ADO.NET lengthy code.
+
+6. Web API and approach you have used.
+Not worked but have a basic knowledge.
+
+7. What is you comfort level in Javascript and JQuery, and knowledge.
+  Used them in project mainly for ajax hits. jquery plugins like  Jquery form validation plugin, Jquery UI for example widgets like Datepicker for form controls or inline calender.
+
+8. What have you done, or showcase about Angular, AngularJS and JavaScript.
+
+version: angular 4
+angular 4 v/s angular2: httpClient library esier to perform http requests.
+Duration:
+Project area where angular was used:
+
+
+
+9. Disadvantage of single page application. Content(processing data) in SPA etc, and your opinion.
+10. MVC or SPA which approach is good, and what is your opinion on using those.
+11. SQL Server, challenges and any good solutions.
+12. Linq query or stored procedures.
+13. Your strengths other than the technology.
+
